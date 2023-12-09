@@ -1,5 +1,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+This repo created and used for educational purposes.
+
 ![Kod](https://github.com/Kaadirm/kodluyoruzilkrepo/assets/141996672/51b21278-5370-4244-baf0-bccffc1e9a4a)
 
 
